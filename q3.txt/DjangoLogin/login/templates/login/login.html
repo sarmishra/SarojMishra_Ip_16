@@ -1,0 +1,10 @@
+<h2> Logpoint Authentication </h2>
+<h3>Provide your credentials</h3>
+<form method="post">
+{% csrf_token %}
+{{form.as_p}}
+<a href="#">Forgot password?</a><br><br>
+<button type="submit">Login</button>
+<a href="{% url 'signup' %}">SignUp</a>
+</form>
+<a href="#">wwww.logpoint.com</a>

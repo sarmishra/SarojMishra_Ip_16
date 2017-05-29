@@ -1,0 +1,15 @@
+﻿For startup a custom designed/printed t-shirt manufacturing company hired me as the consultant/PM  to develop a mobile app or a website for the startup  of the company . I prefer the agile development  model for the development of the website or app because it is an innovative approach, the agile software development methodology is used for articulating well-organized project management procedure allowing for recurrent alterations.
+Certainly, such type of a methodology is one theoretical outline for undertaking several software engineering projects. Another good thing about it is that it minimizes peril by creating software in short time boxes, known as iterations, which happen to last from one week to one month.
+
+Pros:
+1. Adaptive approach that responds to changes favorably 
+2. Allows for direct communication to maintain transparency 
+3. Improved quality by finding and fixing defects quickly and identifying expectation mismatches early. 
+
+Planning:
+Our to do list on an agile project is called the master story list. It contains a list of all the features our customers would like to see in their software.
+The speed at which we turn user stories into working software is called the team velocity. It’s what we use for measuring our team’s productivity and for setting expectations about delivery dates in the future. The engine for getting things done is the agile iteration - one to two week sprints of work where we turn user stories into working, production-ready software. To give us a rough idea about delivery dates, we take the total effort for the project, divide it by our estimated team velocity, and calculate how many iterations we think we’ll require to deliver our project. This becomes our project plan. Now, as we start delivering, one of two things is going to happen. We are going to discover that a) we are going faster than expected or b) we are going slower than we originally thought.
+Faster than expected means you and your team are ahead of schedule. Slower than expected (more the norm) means you have too much to do and not enough time. When faced with too much to do, agile teams will do less (kind of like what you and I do when faced with a really busy weekend). They will keep the most important stories, and drop the least important. This is called adaptive planning and it’s how Agile teams work within their budgets and keep their projects real.
+
+
+
